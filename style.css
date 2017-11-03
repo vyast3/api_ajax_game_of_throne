@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+     background-color: black; 
+}
+
+
+
+img{
+    height: 200px;
+    width: 200px;
+    margin-left:100px;
+    border: 2px solid silver;
+    
+}
+
+#content{
+    height: 300px;
+    width: 500px;
+    border: 4px soild black;
+    background-color: silver;
+    color:white;
+    margin-left:430px;
+    margin-top:100px;
+    padding: 20px;
+   
+}
+
+#content li{
+    list-style: none;
+    font-size: 20px;
+}
